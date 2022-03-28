@@ -1,0 +1,12 @@
+.parent {
+  height: 400px;
+  width: 400px;
+  background-color: azure;
+  margin: auto;
+}
+.box {
+  height: 33%;
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+}
